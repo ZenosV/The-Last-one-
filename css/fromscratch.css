@@ -1,0 +1,26 @@
+
+
+.Sub_title {
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color:darkslategray
+}
+
+.Maintitle{
+    font-size:x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:800;
+    text-align: center;
+    color: blue;
+}
+
+.Video_description {
+    font-size: 20;
+    align-items: center;
+    font-style: italic;
+}
+
+.center {
+    text-align: center ;
+  }
